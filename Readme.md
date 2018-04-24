@@ -1,5 +1,5 @@
 # Projet sur le Passage de SQL à ActiveRecord
-Auteur : [**"Andry"**]('https://github.com/Andryhajanirina/ActiveRecord')
+Auteur : [**"Andry"**](https://github.com/Andryhajanirina/ActiveRecord)
  1. Créer ses model
 La startup tech du moment
 
