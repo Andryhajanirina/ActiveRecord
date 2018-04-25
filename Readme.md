@@ -2,8 +2,11 @@
 Auteur : [**"Andry"**](https://github.com/Andryhajanirina/ActiveRecord)
 
 **=========================================================================================**
-                                    **A mon correcteur**
+
+**A mon correcteur** 
 **__Je n'ai pas pu finir le dernier exercice du projet ActiveRecord par manque de temps__**
+Dans le dossier TheHackingNews, veuillez svp suprimer le dossier db qui se trouve dans
+https://github.com/Andryhajanirina/ActiveRecord/tree/master/TheHackingNews/db/
 **=========================================================================================**
 
  1. Créer ses model
